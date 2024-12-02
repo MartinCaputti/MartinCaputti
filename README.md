@@ -5,7 +5,8 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos m�
 
 ---
 
-📚 **Algo sobre mí**
+# **<span style="font-size: 2.0em;">📚 **Algo sobre mí**</span>**
+
 
 Soy Técnico Universitario en Programación, egresado de la UTN Haedo 🎓, con experiencia práctica en el desarrollo de aplicaciones móviles y proyectos web funcionales. Me encanta trabajar con tecnologías modernas como ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) y ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white), y siempre estoy explorando nuevas herramientas para mejorar mis habilidades.
 
@@ -62,7 +63,9 @@ Diseño profesional con navegación intuitiva.
 
 
 📞 Conéctate conmigo
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://skillicons.dev)[linkedin.com/in/martincaputti](https://www.linkedin.com/in/martin-caputti-950806b5/)
+
 [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](https://skillicons.dev)[caputtimartin12@gmail.com](https://gmail.com/)
 
 
