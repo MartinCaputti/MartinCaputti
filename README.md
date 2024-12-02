@@ -22,17 +22,20 @@ Soy Técnico Universitario en Programación, egresado de la UTN Haedo 🎓, con 
   </a>
 </p>
 
-# <span style="font-size: 1.0em;"><p align="center">Frameworks y herramientas: 
+# <span style="font-size: 1.0em;"><p align="center">Frameworks y herramientas: </p></span>
+<p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,firebase" />
+     <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,firebase" />
   </a>
-</p></span>
+</p>
 
-# <span style="font-size: 1.0em;"><p align="center">Diseño y desarrollo web: 
+# <span style="font-size: 1.0em;"><p align="center">Diseño y desarrollo web: </p></span>
+<p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,netlify" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,netlify" />
   </a>
-</p></span>
+</p>
+
 
 # <span style="font-size: 1.0em;"><p align="center">Bases de datos:
   <a href="https://skillicons.dev">
