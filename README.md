@@ -15,7 +15,7 @@ Soy Técnico Universitario en Programación, egresado de la UTN Haedo 🎓, con 
 
 <p align="center">Lenguajes: 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,php,dart,c,cpp,cs,dotnet	" />
+    <img src="https://skillicons.dev/icons?i=java,js,php,dart,c,cpp,cs,dotnet" />
   </a>
 </p>
 
@@ -62,12 +62,10 @@ Diseño profesional con navegación intuitiva.
 
 
 📞 Conéctate conmigo
-** <a href="https://skillicons.dev">  
-<img src="https://skillicons.dev/icons?i=linkedin	" />
-  </a>:** [linkedin.com/in/martincaputti](https://www.linkedin.com/in/martin-caputti-950806b5/)
-**  <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=gmail	" />
-  </a>:** [caputtimartin12@gmail.com](https://gmail.com/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://skillicons.dev)[linkedin.com/in/martincaputti](https://www.linkedin.com/in/martin-caputti-950806b5/)
+[![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](https://skillicons.dev)[caputtimartin12@gmail.com](https://gmail.com/)
+
+
 
 🎯 Próximos pasos
 🌱 Actualmente estoy trabajando en proyectos personales , incluyendo nuevos diseños en Flutter y funcionalidades avanzadas. ¡Mantente al tanto!
