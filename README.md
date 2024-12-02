@@ -1,7 +1,6 @@
 # **<span style="font-size: 2.5em;">¡Hola, soy Martín Caputti! 👋</span>**
 
-# **<span style="font-size: 1.5em;">
-🎯 **Desarrollador Full Stack | Flutter Enthusiast | Apasionado por la tecnología y el aprendizaje continuo.👨‍💻**  </span>**
+# **<span style="font-size: 1.5em;">🎯 **Desarrollador Full Stack | Flutter Enthusiast | Apasionado por la tecnología y el aprendizaje continuo.👨‍💻**</span>**
 
 Bienvenido a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos más destacados, demostrando mis habilidades en desarrollo web y móvil.
 
@@ -16,39 +15,35 @@ Soy Técnico Universitario en Programación, egresado de la UTN Haedo 🎓, con 
 
 # **<span style="font-size: 1.5em;">🛠️ **Habilidades**</span>**
 
-
-<p align="center">Lenguajes: 
+# **<span style="font-size: 1.0em;"><p align="center">Lenguajes: 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,php,dart,c,cpp,cs,dotnet" />
   </a>
-</p>
+</p></span>**
 
-
-<p align="center">Frameworks y herramientas:
+# **<span style="font-size: 1.0em;"><p align="center">Frameworks y herramientas: 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,firebase" />
+   <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,firebase" />
   </a>
-</p>
+</p></span>**
 
-
-<p align="center">Diseño y desarrollo web:
+# **<span style="font-size: 1.0em;"><p align="center">Diseño y desarrollo web: 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,netlify" />
   </a>
-</p>
+</p></span>**
 
-<p align="center">Bases de datos:
+# **<span style="font-size: 1.0em;"><p align="center">Bases de datos:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
   </a>
-</p>
+</p></span>**
 
-<p align="center">Otras herramientas:
+# **<span style="font-size: 1.0em;"><p align="center">Otras herramientas:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,wordpress,vscode,powershell,discord	" />
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress,vscode,powershell,discord" />
   </a>
-</p>
-
+</p></span>**
 
 # **<span style="font-size: 1.5em;">**📂 Ultimo Proyecto hasta ahora**</span>**
 
