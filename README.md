@@ -1,4 +1,4 @@
-# **<span style="font-size: 2.5em;">¡Hola, soy Martín Caputti! 👋</span>**
+# **<span style="font-size: 2.5em;"><p align="center">¡Hola, soy Martín Caputti!</p> 👋</span>**
 
 # **<span style="font-size: 1.5em;">🎯 **Desarrollador Full Stack | Flutter Enthusiast | Apasionado por la tecnología y el aprendizaje continuo.👨‍💻**</span>**
 
