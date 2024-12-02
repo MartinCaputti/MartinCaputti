@@ -13,7 +13,7 @@ Soy Técnico Universitario en Programación, egresado de la UTN Haedo 🎓, con 
 
 ---
 
-# **<span style="font-size: 1.5em;">🛠️ **Habilidades**</span>
+# <span style="font-size: 1.5em;">🛠️ **Habilidades**</span>
 
 # **<span style="font-size: 1.0em;"><p align="center">Lenguajes: 
   <a href="https://skillicons.dev">
