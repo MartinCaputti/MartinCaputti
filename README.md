@@ -1,9 +1,9 @@
 # **<span style="font-size: 2.5em;"><p align="center">¡Hola, soy Martín Caputti!👋</p> </span>**
-<p align="center">
-# **<span style="font-size: 1.5em;">🎯 **Desarrollador Full Stack | Flutter Enthusiast | Apasionado por la tecnología y el aprendizaje continuo.👨‍💻**</span>**
+
+# **<span style="font-size: 1.5em;"><p align="center">🎯 **Desarrollador Full Stack | Flutter Enthusiast | Apasionado por la tecnología y el aprendizaje continuo.👨‍💻**</p></span>**
 
 Bienvenido a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos más destacados, demostrando mis habilidades en desarrollo web y móvil.
-</p>
+
 ---
 
 # **<span style="font-size: 1.5em;">📚 **Algo sobre mí**</span>**
