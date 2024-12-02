@@ -69,8 +69,9 @@ Diseño profesional con navegación intuitiva.
 # **<span style="font-size: 1.5em;"><p align="center">**📞 Conéctate conmigo**</p></span>**
 
 # [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://skillicons.dev) <span style="font-size: 1.0em;">[linkedin.com/in/martincaputti](https://www.linkedin.com/in/martin-caputti-950806b5/)</span>
+# [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](https://skillicons.dev) <span style="font-size: 1.0em;">[caputtimartin12@gmail.com](https://gmail.com/)</span>
 
-[![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](https://skillicons.dev)[caputtimartin12@gmail.com](https://gmail.com/)
+
 
 
 # **<span style="font-size: 1.5em;"><p align="center">**🎯 Próximos pasos**</p></span>**
