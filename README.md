@@ -5,13 +5,13 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos m�
 
 ---
 
-📚 Algo sobre mí
+📚 **Algo sobre mí**
 
 Soy Técnico Universitario en Programación, egresado de la UTN Haedo 🎓, con experiencia práctica en el desarrollo de aplicaciones móviles y proyectos web funcionales. Me encanta trabajar con tecnologías modernas como ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) y ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white), y siempre estoy explorando nuevas herramientas para mejorar mis habilidades.
 
 ---
 
-🛠️ Habilidades
+<span style="fontsize:2em;>🛠️ **Habilidades</span>**
 
 <p align="center">Lenguajes: 
   <a href="https://skillicons.dev">
