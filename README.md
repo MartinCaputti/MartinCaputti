@@ -36,18 +36,19 @@ Soy Técnico Universitario en Programación, egresado de la UTN Haedo 🎓, con 
   </a>
 </p>
 
-
-# <span style="font-size: 1.0em;"><p align="center">Bases de datos:
+# <span style="font-size: 1.0em;"><p align="center">Bases de datos: </p></span>
+<p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
-  </a>
-</p></span>
+     <img src="https://skillicons.dev/icons?i=firebase,mysql" />
+</p>
 
-# <span style="font-size: 1.0em;"><p align="center">Otras herramientas:
+
+# <span style="font-size: 1.0em;"><p align="center">Otras herramientas: </p></span>
+<p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,wordpress,vscode,powershell,discord" />
-  </a>
-</p></span>
+    <img src="https://skillicons.dev/icons?i=git,github,wordpress,vscode,powershell,discord" />
+</p>
+
 
 # **<span style="font-size: 1.5em;">**📂 Ultimo Proyecto hasta ahora**</span>**
 
